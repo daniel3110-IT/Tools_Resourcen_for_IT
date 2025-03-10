@@ -1,6 +1,6 @@
 # ETC
--https://openfuture.ai/
--https://www.futurepedia.io/
+https://openfuture.ai/
+https://www.futurepedia.io/
 
 https://suno.com/home
 # Chat
