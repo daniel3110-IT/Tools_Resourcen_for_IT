@@ -15,6 +15,7 @@
 - [OpenLDAP](https://www.openldap.org/)
 - [FreeIPA](https://www.freeipa.org/)
 - [Keycloak](https://www.keycloak.org/)
+- [Privacy Idea](https://www.privacyidea.org/)
 - [Authelia](https://www.authelia.com/)
 - [Authentik](https://goauthentik.io/)
 
@@ -72,6 +73,11 @@
 - [Moodle](https://moodle.org/?lang=en)
 - [ILIAS](https://www.ilias.de/en/)
 
+- [Libredesk](https://libredesk.io/) - Open Source Helpdesk
+- [Zammad](https://zammad.com/en) - Open Source Helpdesk
+- [Peppermint](https://peppermint.sh/) - Open Source Lightweight Helpdesk
+- [UVdesk](https://www.uvdesk.com/de/)
+
 ### Mail Systems
 [Open Xchange](https://www.open-xchange.com/)
 - [Mail-in-a-Box](https://mailinabox.email/)
@@ -96,6 +102,8 @@
 - [SuiteCRM](https://suitecrm.com/)
 - [Tryton](https://github.com/tryton/tryton)
 - [InvoicePlane](https://invoiceplane.com/)
+- [Krayincrm](https://krayincrm.com/)
+- [CiviCRM](https://civicrm.org/) OpenSorce CMS for Non-Profit
 
 # CMS
 - [WordPress](https://wordpress.org/)
@@ -103,7 +111,6 @@
 - [Drupal](https://new.drupal.org/home)
 - [Joomla](https://launch.joomla.org/)[]()
 - [Contao](https://contao.org/en/)
-- [CiviCRM](https://civicrm.org/) OpenSorce CMS for Non-Profit
 
 
 # Office
@@ -118,6 +125,7 @@
 - [Logseq](https://logseq.com/)
 - [Joplin](https://joplinapp.org/)
 - [appflowy](https://appflowy.com/)
+- [docmost](https://docmost.com/)
 - [huly](https://huly.io/)
 - [Zotero](https://www.zotero.org/)
 - [Anytype](https://anytype.io/)
@@ -127,15 +135,13 @@
 - [Focalboard](https://www.focalboard.com/)
 - [OpenProject](https://www.openproject.org/de/)
 - [ZenTao](https://www.zentao.pm/)
-- [Zammad](https://zammad.com/en)
 - [Git](https://git-scm.com/)
 - [Gitea](https://about.gitea.com/)
 - [MkDoces](https://www.mkdocs.org/)
+- [Super Productivity](https://super-productivity.com/)
 
 # ETC
 - [GNS3](https://www.gns3.com/)
-
-
 
 
 
