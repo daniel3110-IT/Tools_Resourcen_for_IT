@@ -135,6 +135,7 @@
 - [Planka](https://planka.app/)
 - [Focalboard](https://www.focalboard.com/)
 - [OpenProject](https://www.openproject.org/de/)
+- [Redmine](https://www.redmine.org/)
 - [ZenTao](https://www.zentao.pm/)
 - [Git](https://git-scm.com/)
 - [Gitea](https://about.gitea.com/)
