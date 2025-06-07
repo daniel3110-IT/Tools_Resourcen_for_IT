@@ -41,6 +41,7 @@
  - [Grafana.](https://grafana.com/)
 - [[Prometheus](https://prometheus.io/)
 - [Checkmk.](https://checkmk.com/)
+- [penITCOCKPIT](https://openitcockpit.io/)
 - [Uptime Kuma!](https://github.com/louislam/uptime-kuma)
 - [Statping-NG](https://github.com/statping-ng/statping-ng)
 - [Zabbix](https://www.zabbix.com/)
