@@ -10,6 +10,7 @@
 - [CloudPanel](https://www.cloudpanel.io/)
 - [Heimdall](https://heimdall.site/)
 - [Netbox](https://netbox.readthedocs.io/en/stable/)
+- [i-doit](https://www.i-doit.com/en/)
 
 - [Univention Corporate Server](https://www.univention.com/products/ucs/)
 - [OpenLDAP](https://www.openldap.org/)
@@ -77,6 +78,7 @@
 
 - [Libredesk](https://libredesk.io/) - Open Source Helpdesk
 - [Zammad](https://zammad.com/en) - Open Source Helpdesk
+- [Znuny](https://www.znuny.org) - Open Source Helpdesk
 - [Peppermint](https://peppermint.sh/) - Open Source Lightweight Helpdesk
 - [UVdesk](https://www.uvdesk.com/de/)
 
