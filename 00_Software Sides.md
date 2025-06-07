@@ -38,8 +38,8 @@
 - [n8n](https://n8n.io/)
 
 ### Monitoring &  Endpoint Management
- - [Grafana.](https://grafana.com/)
-- [[Prometheus](https://prometheus.io/)
+- [Grafana.](https://grafana.com/)
+- [Prometheus](https://prometheus.io/)
 - [Checkmk.](https://checkmk.com/)
 - [penITCOCKPIT](https://openitcockpit.io/)
 - [Uptime Kuma!](https://github.com/louislam/uptime-kuma)
