@@ -10,7 +10,6 @@
 - [CloudPanel](https://www.cloudpanel.io/)
 - [Heimdall](https://heimdall.site/)
 - [Netbox](https://netbox.readthedocs.io/en/stable/)
-- [i-doit](https://www.i-doit.com/en/)
 
 - [Univention Corporate Server](https://www.univention.com/products/ucs/)
 - [OpenLDAP](https://www.openldap.org/)
@@ -24,7 +23,7 @@
 - [Nginx](https://nginx.org/)
 - [Caddy](https://caddyserver.com/)
 - [ZORAXY](https://github.com/tobychui/zoraxy)
-  
+- 
 ### Backup & Securety
 - [Bacula](https://www.bacula.org/)
 - [Kopia](https://kopia.io/)
@@ -39,10 +38,9 @@
 - [n8n](https://n8n.io/)
 
 ### Monitoring &  Endpoint Management
-- [Grafana.](https://grafana.com/)
-- [Prometheus](https://prometheus.io/)
+ - [Grafana.](https://grafana.com/)
+- [[Prometheus](https://prometheus.io/)
 - [Checkmk.](https://checkmk.com/)
-- [penITCOCKPIT](https://openitcockpit.io/)
 - [Uptime Kuma!](https://github.com/louislam/uptime-kuma)
 - [Statping-NG](https://github.com/statping-ng/statping-ng)
 - [Zabbix](https://www.zabbix.com/)
@@ -78,12 +76,11 @@
 
 - [Libredesk](https://libredesk.io/) - Open Source Helpdesk
 - [Zammad](https://zammad.com/en) - Open Source Helpdesk
-- [Znuny](https://www.znuny.org) - Open Source Helpdesk
 - [Peppermint](https://peppermint.sh/) - Open Source Lightweight Helpdesk
 - [UVdesk](https://www.uvdesk.com/de/)
 
 ### Mail Systems
-[Open Xchange](https://www.open-xchange.com/)
+- [Open Xchange](https://www.open-xchange.com/)
 - [Mail-in-a-Box](https://mailinabox.email/)
 - [Mailcow](https://mailcow.email/)
 - [Discourse](https://www.discourse.org/)
@@ -107,6 +104,7 @@
 - [Tryton](https://github.com/tryton/tryton)
 - [InvoicePlane](https://invoiceplane.com/)
 - [Krayincrm](https://krayincrm.com/)
+- [Twenty CRM](https://twenty.com/)
 - [CiviCRM](https://civicrm.org/) OpenSorce CMS for Non-Profit
 
 # CMS
@@ -138,15 +136,36 @@
 - [Planka](https://planka.app/)
 - [Focalboard](https://www.focalboard.com/)
 - [OpenProject](https://www.openproject.org/de/)
-- [Redmine](https://www.redmine.org/)
 - [ZenTao](https://www.zentao.pm/)
 - [Git](https://git-scm.com/)
 - [Gitea](https://about.gitea.com/)
 - [MkDoces](https://www.mkdocs.org/)
 - [Super Productivity](https://super-productivity.com/)
 
+### Design
+- [GIMP](https://www.gimp.org/)
+- [KRITA](https://krita.org/)
+- [Inkscape](https://inkscape.org/)
+- [Darktable](https://www.darktable.org/)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve)
+- [Shotcut](https://www.shotcut.org/)
+- [Kdenlive](https://kdenlive.org/)
+- [Audacity](https://www.audacityteam.org/)
+- [Blender](https://www.blender.org/) Open Souc 3D Suite
+- [NATRON](https://natrongithub.github.io/) Open Souce FX Composeenr
+- [FRICTION](https://friction.graphics/)
+- [OpenToonz](https://opentoonz.github.io/e/)
+- [PENCIL PROJECT](https://pencil.evolus.vn/) Open Souce XD Desinger
+- [Penpot](https://penpot.app/) Open Souce XD Desinger
+- [Quant-UX](https://www.quant-ux.com/) Open Souce XD Desinger
+- 
+
 # ETC
 - [GNS3](https://www.gns3.com/)
+- [Scribus](https://www.scribus.net/)
+- [OBS Studio](https://obsproject.com/)
+- 
+
 
 
 
